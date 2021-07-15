@@ -1,2 +1,2 @@
 # webpack_study
-about sebpack
+about webpack
